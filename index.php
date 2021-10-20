@@ -74,7 +74,17 @@ $faqs = [
 <body>
 
 <header>
+    <div class="header-top">
+        <div class="header-left">
+            <img src="img/googlelogo_clr_74x24px.svg" alt="logo google">
+            <h2>Privacy e termini</h2>
+        </div>
+        <div class="header-right">
+            <i class="fas fa-th"></i>
+            <div>E</div>
+        </div>
 
+    </div>
 </header>
 
 <main>
