@@ -50,6 +50,20 @@ header{
     color: #606368;
     padding-right: 20px;
 }
+.header-bottom ul{
+    display: flex;
+    padding: 10px 0;
+}
+.header-bottom ul li{
+    list-style: none;
+}
+.header-bottom ul li a{
+    text-decoration: none;
+    padding-right: 40px;
+    color: #606368;
+    font-weight: 500;
+    font-size: 14.8px;
+}
 /* /header */
 /* main */
 main, .footer-container{

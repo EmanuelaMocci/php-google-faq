@@ -83,10 +83,19 @@ $faqs = [
             <i class="fas fa-th"></i>
             <div>E</div>
         </div>
+    </div>
 
+    <div class="header-bottom">
+        <ul>
+            <li><a href="#">Introduzione</a></li>
+            <li><a href="#">Norme sulla privacy</a></li>
+            <li><a href="#">Termini di servizio</a></li>
+            <li><a href="#">Tecnologie</a></li>
+            <li><a href="#">Domande frequenti</a></li>
+        </ul>
     </div>
 </header>
-
+<hr>
 <main>
         <?php foreach ($faqs as $key) { ?>
             <h2><?php echo "{$key['domanda']}"; ?></h2>
