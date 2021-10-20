@@ -71,7 +71,9 @@ header{
     padding-bottom: 9px;
 }
 hr {
-    border: 1px solid #CBCBCB;
+    background-color: #CBCBCB;
+    border: 0 none;
+    height: 1px;
 }
 /* /header */
 /* main */
