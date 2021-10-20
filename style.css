@@ -18,13 +18,16 @@ h2, h3{
 }
 div{
     line-height: 1.8;
-    font-size: 13.5px;
+    font-size: 13px;
     margin-top: 30px;
 }
 
 a{
     color: #3367D7;
     text-decoration: none;
+}
+i{
+    font-size: 10px;
 }
 ol, ol > li{
     padding-left: 15px;
