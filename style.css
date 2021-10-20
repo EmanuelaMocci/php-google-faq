@@ -64,6 +64,15 @@ header{
     font-weight: 500;
     font-size: 14.8px;
 }
+.header-bottom ul li:last-child a{
+    color: #3367D7;
+    border-bottom: 3px solid #3367D7;
+    padding:0;
+    padding-bottom: 9px;
+}
+hr {
+    border: 1px solid #CBCBCB;
+}
 /* /header */
 /* main */
 main, .footer-container{
